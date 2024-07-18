@@ -28,8 +28,8 @@
       <div class="info-item">
         <h2>📫 How to reach me...</h2>
         <p class="contact-info">
-          <img src="phone-icon.png" alt="Phone Icon"> 0603179552 <br>
-          <img src="email-icon.png" alt="Email Icon"> <a href="mailto:sanelehlongwane61@gmail.com">sanelehlongwane61@gmail.com</a>
+          📞 0603179552 <br>
+          📧 <a href="mailto:sanelehlongwane61@gmail.com">sanelehlongwane61@gmail.com</a>
         </p>
       </div>
       <div class="info-item">
