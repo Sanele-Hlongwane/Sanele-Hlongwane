@@ -58,7 +58,7 @@
         <h2>🎓 Education...</h2>
         <ul>
           <li>Business Information Technology, University of Johannesburg</li>
-          <li>High School Diploma, Your High School Name</li>
+          <li>High School Bachelor, Hoye Secondary School</li>
         </ul>
       </div>
     </section>
