@@ -3,70 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Title and external stylesheet link -->
   <title>Sanele Hlongwane's Profile</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      background-color: #f8f9fa;
-      color: #343a40;
-      padding: 20px;
-      max-width: 800px;
-      margin: auto;
-      border: 1px solid #ced4da;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h1 {
-      color: #007bff;
-    }
-    .container {
-      padding: 20px;
-      background-color: #ffffff;
-      border-radius: 8px;
-      margin-bottom: 20px;
-      box-shadow: 0 0 8px rgba(0,0,0,0.1);
-    }
-    .info-item {
-      margin-bottom: 20px;
-    }
-    .contact-info {
-      display: flex;
-      align-items: center;
-    }
-    .contact-info img {
-      width: 20px;
-      height: auto;
-      margin-right: 8px;
-    }
-    .fun-fact {
-      margin-top: 20px;
-      font-style: italic;
-      color: #6c757d;
-    }
-    .skills {
-      margin-top: 20px;
-    }
-    .skills ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    .skills li {
-      margin-bottom: 5px;
-    }
-    .education {
-      margin-top: 20px;
-    }
-    .education ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    .education li {
-      margin-bottom: 10px;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Content section -->
   <div class="container">
     <header>
       <h1>👋 Hi, I’m Sanele Hlongwane</h1>
@@ -117,7 +59,7 @@
         <h2>🎓 Education...</h2>
         <ul>
           <li>Business Information Technology, University of Johannesburg</li>
-          <li>High School Bachelor, Hoye Secondary School</li>
+          <li>High School Diploma, Your High School Name</li>
         </ul>
       </div>
     </section>
