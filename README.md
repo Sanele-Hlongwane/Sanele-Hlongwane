@@ -56,7 +56,7 @@
           <li><a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/64/external-react-native-mobile-app-development-flat-flat-juicy-fish.png" alt="React Native"> React Native</a></li>
           <li><a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logo@2x.png)" alt="Git"> Version Control (Git)</a></li>
           <li><a href="https://www.smashingmagazine.com/guides" target="_blank"><img src="(https://www.smashingmagazine.com/images/smashing-logo.png)" alt="UI/UX Design"> UI/UX Design</a></li>
-          <li><a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/track-changes.png" alt="Agile Methodologies"> Agile Methodologies</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"><img src="https://c8.alamy.com/comp/2D13APP/agile-methodology-icon-simple-element-from-app-development-collection-filled-agile-methodology-icon-for-templates-infographics-and-more-2D13APP.jpg" alt="Agile Methodologies"> Agile Methodologies</a></li>
           <li>
       </div>
       <div class="info-item education">
