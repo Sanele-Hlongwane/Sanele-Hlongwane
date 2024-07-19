@@ -41,23 +41,23 @@
       <div class="info-item skills">
         <h2>🛠️ Skills...</h2>
         <ul>
-          <li>JavaScript (ES6+)</li>
-          <li>React.js</li>
-          <li>Node.js</li>
-          <li>HTML5 & CSS3</li>
-          <li>SQL & NoSQL Databases</li>
-          <li>Firebase</li>
-          <li>Python</li>
-          <li>C#</li>
-          <li>Windows Forms</li>
-          <li>WPF</li>
-          <li>ASP.NET</li>
-          <li>PHP</li>
-          <li>React Native</li>
-          <li>Version Control (Git)</li>
-          <li>UI/UX Design</li>
-          <li>Agile Methodologies</li>
-          <li>Project Management</li>
+          <li><img src="images/javascript.png" alt="JavaScript"> JavaScript (ES6+)</li>
+          <li><img src="images/react.png" alt="React.js"> React.js</li>
+          <li><img src="images/nodejs.png" alt="Node.js"> Node.js</li>
+          <li><img src="images/html-css.png" alt="HTML5 & CSS3"> HTML5 & CSS3</li>
+          <li><img src="images/sql.png" alt="SQL & NoSQL Databases"> SQL & NoSQL Databases</li>
+          <li><img src="images/firebase.png" alt="Firebase"> Firebase</li>
+          <li><img src="images/python.png" alt="Python"> Python</li>
+          <li><img src="images/csharp.png" alt="C#"> C#</li>
+          <li><img src="images/windows-forms.png" alt="Windows Forms"> Windows Forms</li>
+          <li><img src="images/wpf.png" alt="WPF"> WPF</li>
+          <li><img src="images/aspnet.png" alt="ASP.NET"> ASP.NET</li>
+          <li><img src="images/php.png" alt="PHP"> PHP</li>
+          <li><img src="images/react-native.png" alt="React Native"> React Native</li>
+          <li><img src="images/git.png" alt="Version Control (Git)"> Version Control (Git)</li>
+          <li><img src="images/uiux.png" alt="UI/UX Design"> UI/UX Design</li>
+          <li><img src="images/agile.png" alt="Agile Methodologies"> Agile Methodologies</li>
+          <li><img src="images/project-management.png" alt="Project Management"> Project Management</li>
         </ul>
       </div>
       <div class="info-item education">
