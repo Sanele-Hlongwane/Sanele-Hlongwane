@@ -54,8 +54,8 @@
           <li><a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET"> ASP.NET</a></li>
           <li><a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/php.png" alt="PHP"> PHP</a></li>
           <li><a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/64/external-react-native-mobile-app-development-flat-flat-juicy-fish.png" alt="React Native"> React Native</a></li>
-          <li><a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"> Version Control (Git)</a></li>
-          <li><a href="https://www.smashingmagazine.com/guides/ui-design/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/user-interface.png" alt="UI/UX Design"> UI/UX Design</a></li>
+          <li><a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logo@2x.png)" alt="Git"> Version Control (Git)</a></li>
+          <li><a href="https://www.smashingmagazine.com/guides" target="_blank"><img src="(https://www.smashingmagazine.com/images/smashing-logo.png)" alt="UI/UX Design"> UI/UX Design</a></li>
           <li><a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/track-changes.png" alt="Agile Methodologies"> Agile Methodologies</a></li>
           <li>
       </div>
