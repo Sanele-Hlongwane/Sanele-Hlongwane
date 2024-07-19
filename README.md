@@ -41,24 +41,23 @@
       <div class="info-item skills">
         <h2>🛠️ Skills...</h2>
         <ul>
-          <li><img src="images/javascript.png" alt="JavaScript"> JavaScript (ES6+)</li>
-          <li><img src="images/react.png" alt="React.js"> React.js</li>
-          <li><img src="images/nodejs.png" alt="Node.js"> Node.js</li>
-          <li><img src="images/html-css.png" alt="HTML5 & CSS3"> HTML5 & CSS3</li>
-          <li><img src="images/sql.png" alt="SQL & NoSQL Databases"> SQL & NoSQL Databases</li>
-          <li><img src="images/firebase.png" alt="Firebase"> Firebase</li>
-          <li><img src="images/python.png" alt="Python"> Python</li>
-          <li><img src="images/csharp.png" alt="C#"> C#</li>
-          <li><img src="images/windows-forms.png" alt="Windows Forms"> Windows Forms</li>
-          <li><img src="images/wpf.png" alt="WPF"> WPF</li>
-          <li><img src="images/aspnet.png" alt="ASP.NET"> ASP.NET</li>
-          <li><img src="images/php.png" alt="PHP"> PHP</li>
-          <li><img src="images/react-native.png" alt="React Native"> React Native</li>
-          <li><img src="images/git.png" alt="Version Control (Git)"> Version Control (Git)</li>
-          <li><img src="images/uiux.png" alt="UI/UX Design"> UI/UX Design</li>
-          <li><img src="images/agile.png" alt="Agile Methodologies"> Agile Methodologies</li>
-          <li><img src="images/project-management.png" alt="Project Management"> Project Management</li>
-        </ul>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"> JavaScript (ES6+)</a></li>
+          <li><a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"> React.js</a></li>
+          <li><a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/nodejs.png" alt="Node.js"> Node.js</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"> HTML5</a> & <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"> CSS3</a></li>
+          <li><a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="SQL"> SQL</a> & <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/mongodb.png" alt="NoSQL"> NoSQL Databases</a></li>
+          <li><a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/firebase.png" alt="Firebase"> Firebase</a></li>
+          <li><a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"> Python</a></li>
+          <li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/c-sharp.png" alt="C#"> C#</a></li>
+          <li><a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktopdesktop-7.0" target="_blank"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows Forms"> Windows Forms</a></li>
+          <li><a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktopdesktop-7.0" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-flaticons/64/external-wpf-windows-flaticons-lineal-color-flat-flaticons.png" alt="WPF"> WPF</a></li>
+          <li><a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET"> ASP.NET</a></li>
+          <li><a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/php.png" alt="PHP"> PHP</a></li>
+          <li><a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/64/external-react-native-mobile-app-development-flat-flat-juicy-fish.png" alt="React Native"> React Native</a></li>
+          <li><a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"> Version Control (Git)</a></li>
+          <li><a href="https://www.smashingmagazine.com/guides/ui-design/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/user-interface.png" alt="UI/UX Design"> UI/UX Design</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/track-changes.png" alt="Agile Methodologies"> Agile Methodologies</a></li>
+          <li>
       </div>
       <div class="info-item education">
         <h2>🎓 Education...</h2>
