@@ -73,7 +73,7 @@
         <h2>📂 Projects...</h2>
         <ul>
           <li><strong>Eco-Tracker (2023/07 - 2023/11)</strong>: A mobile app designed to increase user awareness about eco-friendly practices.</li>
-          <li><strong>Thrivemebtor (2023/03 - 2023/06)</strong>: A lifestyle coaching website aimed at personal development and goal achievement.</li>
+          <li><strong>Thrivementor (2023/03 - 2023/06)</strong>: A lifestyle coaching website aimed at personal development and goal achievement.</li>
           <li><strong>Eagles Ring (2024/03 - Present)</strong>: An investment platform that connects entrepreneurs with investment opportunities, featuring features like pitch presentations, role-based profiles, and integration with Clerk for authentication and Prisma for database management.</li>
         </ul>
       </div>
